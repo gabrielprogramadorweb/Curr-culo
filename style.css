@@ -22,7 +22,7 @@
   div.main_page {
     position: relative;
     display: table;
-    width: 80%;
+    width: 70%;
     height: auto;
     margin-bottom: 3px;
     margin-left: auto;
@@ -85,7 +85,7 @@
     padding-left: 50px;
     padding-right: 50px;
   }
-  @media (max-width:970px) {* {
+  @media (max-width:800px) {* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -102,7 +102,7 @@
     text-align: center;
   }
   main {
-    font-size: 1vw;
+    font-size: 2vw;
   }
   div.main_page {
     position: relative;
