@@ -62,7 +62,7 @@
     margin-left: 50px;
     justify-content: ;
     text-align: justify;
-    font-size: 2vw;
+    font-size: 1.5vw;
     padding-right: 100px;
   }
   
@@ -70,6 +70,7 @@
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 3vw;
   }
   
   h2{
@@ -81,10 +82,11 @@
     padding-top: 15px;
     Padding-bottom: 15px;
     text-align: left;
+    font-size: 2vw;
     padding-left: 60px;
   }
   
-  p{
+  p{font-size: 2vw;
     text-align: justify;
     padding-left: 50px;
     padding-right: 50px;
@@ -130,6 +132,7 @@
   
   div.redes-sociais{
     display: inline;
+    font-size: 2vw;
   }
   
   a:link, a:visited {
@@ -152,17 +155,19 @@
   li{
     margin-left: 50px;
     justify-content: ;
-    font-size: 2vw;
+    font-size: 1.5vw;
   }
   
   h1{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 3vw;
   }
   
   h2{
     text-align: left;
+    font-size: 2vw;
   }
   
   h3{
@@ -171,11 +176,11 @@
     Padding-bottom: 15px;
     text-align: left;
     padding-left: 60px;
-    
+    font-size: 2vw;
     
   }
   
-  p{
+  p{font-size: 2vw;
     text-align: justify;
     padding-left: 50px;
     padding-right: 50px;
