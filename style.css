@@ -19,6 +19,14 @@
   main {
     font-size: 0.5vw;
   }
+  .foto img{
+    position: absolute;
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+    right: 10%;
+    top:15%
+  }
   div.main_page {
     position: relative;
     display: table;
@@ -111,6 +119,11 @@
   }
   main {
     font-size: 2vw;
+  }
+  .foto img{
+
+    top: 55px;
+    width: 20%;
   }
   div.main_page {
     position: absolute;
