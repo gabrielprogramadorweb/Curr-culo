@@ -100,6 +100,17 @@ p {
   padding-left: 50px;
   padding-right: 50px;
 }
+.foto{
+  position: relative;
+}
+.foto img{
+  width: 200px;
+  position: absolute;
+  margin-top: 8%;
+}
+li img{
+  width: 3%;
+}
 @media (max-width: 800px) {
   * {
     margin: 0;
